@@ -19,7 +19,7 @@
 
 ## 💻  Projeto
 
-Projeto de um formulário de cadastro que contém vários campos de preenchimento para o usuário logar em sistemas.
+Projeto de um formulário de cadastro que contém vários campos de preenchimento para o usuário se cadastrar em sistemas.
 
 [Visite o projeto online](https://antonio2812.github.io/formulario-de-cadastro)
 
