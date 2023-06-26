@@ -28,7 +28,7 @@ Projeto de um formulário de cadastro que contém vários campos de preenchiment
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5 e CSS3
-- Git e Github
+- Git e GitHub
 
 ## 🤝  Como Contribuir
 
